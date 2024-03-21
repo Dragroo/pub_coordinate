@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mwq/od_ws/install/pixel_tf_pub_frame/lib/python3.8/site-packages",
+        "/home/mwq/od_ws/install/scout_interfaces_msg/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/world_vector_pub/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/tf_puber/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/scout_interfaces_msg/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/my_interfaces/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/dobot_move/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mwq/od_ws/install/pixel_tf_pub_frame/lib/python3.8/site-packages",
+        "/home/mwq/od_ws/install/scout_interfaces_msg/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/world_vector_pub/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/tf_puber/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/scout_interfaces_msg/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/my_interfaces/lib/python3.8/site-packages",
+        "/home/mwq/bringup_ws/install/dobot_move/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
